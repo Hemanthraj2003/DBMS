@@ -1,0 +1,12 @@
+#DashBody{
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 20px ;
+    width: 100rm;
+    border: 2px solid #333a45;
+}
+
+.lendform {
+    display: flex;
+    justify-content: center;
+}
